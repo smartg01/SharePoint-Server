@@ -1,0 +1,11 @@
+Access IIS via start menu
+
+Access server certificates and select Create Certificate Request within actions column. 
+
+Common name = www.DOMAIN.co.nz
+Organisation = OU
+Organisation unit = OU
+
+Crypto bit length =2048 (Higher the number the slower the connection). 
+
+Save into file
